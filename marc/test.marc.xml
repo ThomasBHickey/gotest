@@ -1,0 +1,41 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <leader>00000nz  a2200000o  4500</leader>
+    <controlfield tag="001">DNB|1034425390</controlfield>
+    <controlfield tag="003">DNB</controlfield>
+    <controlfield tag="005">20130510012324.0</controlfield>
+    <controlfield tag="008">130510n||aznnnabbn           | aba    |c</controlfield>
+    <datafield ind1=" " ind2=" " tag="035">
+        <subfield code="a">(DNB)1034425390</subfield>
+    </datafield>
+    <datafield ind1="7" ind2=" " tag="024">
+        <subfield code="a">http://d-nb.info/gnd/1034425390</subfield>
+        <subfield code="2">uri</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="035">
+        <subfield code="a">(DE-101)1034425390</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="035">
+        <subfield code="a">(DE-588)1034425390</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="040">
+        <subfield code="a">DE-101</subfield>
+        <subfield code="9">r:DE-101</subfield>
+        <subfield code="b">ger</subfield>
+        <subfield code="d">9999</subfield>
+        <subfield code="e">rakwb</subfield>
+        <subfield code="f">rswk</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="079">
+        <subfield code="a">g</subfield>
+        <subfield code="b">n</subfield>
+        <subfield code="c">7</subfield>
+        <subfield code="q">f</subfield>
+        <subfield code="u">v</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+        <subfield code="a">Austen, Jane</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="994">
+        <subfield code="a">sparse</subfield>
+    </datafield>
+</record>
